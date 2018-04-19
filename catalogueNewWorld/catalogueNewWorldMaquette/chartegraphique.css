@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'wanabees';
+    src: url('./Font/Wanabees/wannabees_personal_use-webfont.woff2') format('woff2'),
+         url('./Font/Wanabees/wannabees_personal_use-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+	font-family: wanabees;
+	font-weight: lighter;
+	font-size: 500%;
+	text-align: center;
+}
+
+.carre { width:110px; height:20px; }
+
+.brownlightbckg{
+	background-color: #cc9966;
+}
+
+.brownlightcolor{
+	color: #cc9966;
+}
+
+.bluegreendarkbckgr{
+	background-color: #2D4747;
+}
+
+.bluegreendarkcolor{
+	color: #2D4747;
+}
+
